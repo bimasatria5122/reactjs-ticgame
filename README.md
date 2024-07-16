@@ -2,6 +2,7 @@
 # Tic Game
 
 React JS Tic Tac Toe Game tutorial with adding character selection and leaderboard. *(This is my old learning project with adding new feature, because my other github account banned).
+Link Deployment : reactjs-ticgame.vercel.app
 
 ## Library Used :
 - Redux Toolkit
