@@ -1,0 +1,83 @@
+{
+    "groups": [
+      {
+        "id": "G-1e8e6c2b",
+        "name": "JKT48"
+      },
+      {
+        "id": "G-2d8e4b4c",
+        "name": "Dreamcatcher"
+      },
+      {
+        "id": "G-3e8e4b4c",
+        "name": "Slipknot"
+      }
+    ],
+    "idols": [
+      {
+        "id": "I-3c7b6d1e",
+        "name": "Gita",
+        "group_id": "G-1e8e6c2b",
+        "photo": "I-3c7b6d1e.jpg",
+        "icon": "ico-I-3c7b6d1e.png",
+        "figure" : "fig-I-3c7b6d1e.png"
+      },
+      {
+        "id": "I-4d8b6c2e",
+        "name": "Melodi",
+        "group_id": "G-1e8e6c2b",
+        "photo": "I-4d8b6c2e.webp",
+        "icon": "ico-I-4d8b6c2e.png",
+        "figure" : "fig-I-4d8b6c2e.png"
+      },
+      {
+        "id": "I-5e8c6d3f",
+        "name": "Jessica Veranda",
+        "group_id": "G-1e8e6c2b",
+        "photo": "I-5e8c6d3f.webp",
+        "icon": "ico-I-5e8c6d3f.png",
+        "figure" : "fig-I-1e8e6c2b.png"
+      },
+      {
+        "id": "I-6f8d7e4g",
+        "name": "JiU",
+        "group_id": "G-2d8e4b4c",
+        "photo": "I-6f8d7e4g.jpeg",
+        "icon": "ico-I-6f8d7e4g.png",
+        "figure" : "fig-I-6f8d7e4g.png"
+      },
+      {
+        "id": "I-7g8e8f5h",
+        "name": "Yoohyeon",
+        "group_id": "G-2d8e4b4c",
+        "photo": "I-7g8e8f5h.jpeg",
+        "icon": "ico-I-7g8e8f5h.png",
+        "figure" : "fig-I-7g8e8f5h.png"
+      },
+      {
+        "id": "I-8h8f9g6i",
+        "name": "Gahyeon",
+        "group_id": "G-2d8e4b4c",
+        "photo": "I-8h8f9g6i.jpeg",
+        "icon": "ico-I-8h8f9g6i.png",
+        "figure" : "fig-I-8h8f9g6i.png"
+      },
+      {
+        "id": "I-9i8f9g6i",
+        "name": "Corey Taylor",
+        "group_id": "G-3e8e4b4c",
+        "photo": "I-9i8f9g6i.jpeg",
+        "icon": "ico-I-9i8f9g6i.png",
+        "figure" : "fig-I-9i8f9g6i.png"
+      },
+      {
+        "id": "I-9h6f2g6i",
+        "name": "Alessandro",
+        "group_id": "G-3e8e4b4c",
+        "photo": "I-9h6f2g6i.jpeg",
+        "icon": "ico-I-9h6f2g6i.png",
+        "figure" : "fig-I-9h6f2g6i.png"
+      }
+    ]
+  }
+  
