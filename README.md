@@ -40,3 +40,6 @@ React JS Tic Tac Toe Game tutorial with adding character selection and leaderboa
 <img src="screenshots/game.png" alt="Game" style="border-radius: 1rem;" />
 <img src="screenshots/gameend.png" alt="Game End" style="border-radius: 1rem;" />
 
+
+## Images Credit
+[https://www.artstation.com/thebonefinger](https://www.artstation.com/thebonefinger)
